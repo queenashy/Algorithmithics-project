@@ -1,11 +1,11 @@
-p {
-  font-family: arial;
+p{
+  font-family: san-serif;
 }
-a  {
+a{
    background-color: green;
   color: white;
 }
-  header {
+  header{
     background-color: blue;
     text-align: center;
   }
