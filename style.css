@@ -1,1 +1,11 @@
-
+p {
+  font-family: arial;
+}
+a href {
+   background-color: green;
+  color: white;
+}
+  head {
+    background-color: blue;
+    text-align: center;
+  }
